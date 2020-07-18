@@ -1,0 +1,24 @@
+Shell: 
+? It is the outer layer of UNIX operating System. 
+? It reads our command, verify syntax and check whether the corresponding command related application is available or not. 
+? If everything is proper, then shell interprets our command into kernal understandable form and handover to the kernal. 
+? Shell acts as interface between user and kernal.
+
+Kernal: 
+? It is the core component of UNIX operating system. 
+? It is responsible to execute our commands.
+? It is responsible to interact with hardware components. 
+? Memory allocation and processor allocation will takes care by kernal.
+
+Flow of Execution
+1) User types the command in the terminal. touch durga.txt 
+2) Shell reads that command. It will check whether that command is valid or not and whether it is used properly or not. If everything is proper, then shell interprets/translates that command into kernal understandable form.
+3) Shell handovers that interpreted command to the kernal. 
+4) Kernal executes that command and perform required activity.
+5) Once command execution completed, then shell returns unix prompt ($ OR # OR %). 
+6) $ OR # OR % represents it is ready for the next command.
+
+Online UNIX Terminal: http://www.masswerk.at/jsuix
+? It is free terminal and written in JavaScript. 
+? We can access by using any browser. 
+? We can use this terminal to check very basic commands functionality.

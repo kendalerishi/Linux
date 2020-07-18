@@ -1,0 +1,21 @@
+What is UNIX? 
+? It is an operating system, by using that, users/applications can communicate with hard ware components. ? It was developed/created in 1960s. ? With lot of extensions and improvements to base version, several flavours introduced by organization/companies (flavours like Redhat linux, ubuntu, CentOS etc)
+
+Features of UNIX: 
+1) It is FOSS (Freeware and Open Source Software) 
+2) UNIX can be used by multiple users simultaneously and hence it is Multi User operating System. 
+3) Several tasks can be executed simultaneously and hence it is multi tasking operating system. 
+4) It is user friendly and provides both CUI and GUI Support. 
+5) When compared with windows, UNIX is more secured.
+
+Flavours of UNIX: 
+As UNIX is open source, multiple flavours are available with lot of extensions and improvements.
+? Ubuntu 
+? RedHat 
+? Centos 
+? Fedora 
+? Slackware
+? open solaries 
+? Suse Linux Enterprise server (SLES) 
+? Open Suse
+
