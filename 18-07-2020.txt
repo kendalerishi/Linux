@@ -11,7 +11,7 @@ Kernal:
 ? Memory allocation and processor allocation will takes care by kernal.
 
 Flow of Execution
-1) User types the command in the terminal. touch durga.txt 
+1) User types the command in the terminal. touch Friends.txt 
 2) Shell reads that command. It will check whether that command is valid or not and whether it is used properly or not. If everything is proper, then shell interprets/translates that command into kernal understandable form.
 3) Shell handovers that interpreted command to the kernal. 
 4) Kernal executes that command and perform required activity.
